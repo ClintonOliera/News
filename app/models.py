@@ -10,8 +10,7 @@ class Sources:
         self.url = url
         self.category = category
         self.country = country
-        self.language = language
-        
+        self.language = language        
         
 class Articles:
     '''
